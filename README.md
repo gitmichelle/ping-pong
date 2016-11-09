@@ -10,29 +10,39 @@ _This is a web application that takes a number from a user and returns a range o
 
 ## _Behavior Driven Development_
 
-*_1. It can count up to the provided number._
-**_Example Input: 2_
-**_Example Output: [1,2]_
+####_1. It can count up to the provided number._
+* Example Input: 2_
+* Example Output: [1,2]
 
-*_2. It can recognize an integer._
-**_Example Input: 7_
-**_Example Output: 7_
+####_2. It can recognize an integer._
+* Example Input: 7
+* Example Output: 7
+
 #### _3. It can recognize a non-integer._
-* _Example Input: L_
-* _Example Output: "Please input a positive integer."_
+* Example Input: L
+* Example Output: "Please input a positive integer."
+
 #### _4. It can recognize a negative number._
-* _Example Input: -4_
-* _Example Output: "Please input a positive integer."_
+* Example Input: -4
+* Example Output: "Please input a positive integer."
+
 #### _5. Numbers divisible by 3 are replaced with "ping."_
-* _Example Input: 9_
-* _Example Output: "ping"_
+* Example Input: 9
+* Example Output: "ping"
+
 #### _6. Numbers divisible by 5 are replaced with "pong."_
-* _Example Input: 15_
-* _Example Output: "pong"_
+* Example Input: 15
+* Example Output: "pong"
+
 #### _7. A user can enter a new number and see new results over and over again._
-* _Example Input: 30_
-* _Example Output: "pingpong."_
+* Example Input: 30
+* Example Output: "pingpong."
+
 #### _8. A user can enter a new number and see new results over and over again._
+
+## Setup/Installation Requirements
+
+* _[click here] (https://github.com/gitmichelle/ping-pong.git) to clone or view on gh-pages._
 
 
 ## Technologies Used
