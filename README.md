@@ -13,6 +13,7 @@ _This is a web application that takes a number from a user and returns a range o
 *_1. It can count up to the provided number._
 **_Example Input: 2_
 **_Example Output: [1,2]_
+
 *_2. It can recognize an integer._
 **_Example Input: 7_
 **_Example Output: 7_
