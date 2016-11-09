@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+}
+
+#rules {
+  width: 600px;
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#rulestitle {
+  text-align: center;
+}
+
+#ruleslist {
+  margin-left: 50px;
+}
+.form-inline {
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.results  {
+  margin-top: 50px;
+  margin-left: 550px;
+}
