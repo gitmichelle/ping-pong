@@ -1,8 +1,8 @@
 
 $(document).ready(function() {
   $("form#pingpongnumber").submit(function(event) {
+    $("#resultlist").empty();
     event.preventDefault();
-
 
     var inputtedNumber = parseInt($("input#numberinput").val());
 
@@ -18,5 +18,6 @@ $(document).ready(function() {
         $("ul#resultlist").append("<li>" + i + "</li>");
       };
     };
+
   });
 });
