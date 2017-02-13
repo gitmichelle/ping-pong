@@ -8,6 +8,11 @@
 
 _This is a web application that takes a number from a user and returns a range of numbers from 1 to the chosen number with some exceptions, as stated below._
 
+## Setup Instructions
+
+* _[click here] (https://gitmichelle.github.io/ping-pong/) to view on gh-pages._
+* _Clone repository `https://github.com/gitmichelle/pizza-shop.git`
+
 ## _Behavior Driven Development_
 
 ####_1. It can count up to the provided number._
