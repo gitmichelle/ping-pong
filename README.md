@@ -45,10 +45,6 @@ _This is a web application that takes a number from a user and returns a range o
 
 #### _8. A user can enter a new number and see new results over and over again._
 
-## Setup/Installation Requirements
-
-* _[click here] (https://github.com/gitmichelle/ping-pong.git) to clone or view on gh-pages._
-
 
 ## Technologies Used
 
