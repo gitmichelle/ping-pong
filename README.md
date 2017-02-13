@@ -11,7 +11,7 @@ _This is a web application that takes a number from a user and returns a range o
 ## Setup Instructions
 
 * _[Click here] (https://gitmichelle.github.io/ping-pong/) to view on gh-pages._
-* _Clone repository `https://github.com/gitmichelle/pizza-shop.git`
+* _Clone repository `https://github.com/gitmichelle/pizza-shop.git`_
 
 ## _Behavior Driven Development_
 
